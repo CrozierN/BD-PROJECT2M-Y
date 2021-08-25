@@ -1,0 +1,320 @@
+,Ticker,Industry,Sector
+0,4SI.JO,Information Technology Services,Technology
+1,ABG.JO,Banks—Regional,Financial Services
+2,APF.JO,REIT—Retail,Real Estate
+3,ACS.JO,Real Estate—Development,Real Estate
+4,ADI.JO,Conglomerates,Industrials
+5,AIP.JO,Drug Manufacturers—Specialty & Generic,Healthcare
+6,ADR.JO,Staffing & Employment Services,Industrials
+7,AVL.JO,Medical Care Facilities,Healthcare
+8,ADH.JO,Education & Training Services,Consumer Defensive
+9,AFE.JO,Specialty Chemicals,Basic Materials
+10,AOO.JO,Apparel Retail,Consumer Cyclical
+11,AON.JO,Apparel Retail,Consumer Cyclical
+12,ADW.JO,Credit Services,Financial Services
+13,AEE.JO,Information Technology Services,Technology
+14,AME.JO,Broadcasting,Communication Services
+15,AIL.JO,Asset Management,Financial Services
+16,ARI.JO,Other Industrial Metals & Mining,Basic Materials
+17,AFT.JO,Building Materials,Basic Materials
+18,ATI.JO,Specialty Business Services,Industrials
+19,ACT.JO,Medical Care Facilities,Healthcare
+20,AHL.JO,Packaged Foods,Consumer Defensive
+21,ALH.JO,Communication Equipment,Technology
+22,AFH.JO,Financial Conglomerates,Financial Services
+23,AEL.JO,Information Technology Services,Technology
+24,APH.JO,Other Industrial Metals & Mining,Basic Materials
+25,AVV.JO,Information Technology Services,Technology
+26,AMS.JO,Other Precious Metals & Mining,Basic Materials
+27,AGL.JO,Other Industrial Metals & Mining,Basic Materials
+28,ANG.JO,Gold,Basic Materials
+29,ANH.JO,Beverages—Brewers,Consumer Defensive
+30,ARH.JO,Electronics & Computer Distribution,Technology
+31,ACL.JO,Steel,Basic Materials
+32,ACZ.JO,Lodging,Consumer Cyclical
+33,ART.JO,Steel,Basic Materials
+34,AHA.JO,REIT—Diversified,Real Estate
+35,AHB.JO,REIT—Diversified,Real Estate
+36,AHA.JO,REIT—Diversified,Real Estate
+37,ASC.JO,Drug Manufacturers—Specialty & Generic,Healthcare
+38,APN.JO,Drug Manufacturers—Specialty & Generic,Healthcare
+39,ARA.JO,Asset Management,Financial Services
+40,ARL.JO,Farm Products,Consumer Defensive
+41,ATT.JO,REIT—Diversified,Real Estate
+42,AEG.JO,Engineering & Construction,Industrials
+43,AEG.JO,Engineering & Construction,Industrials
+44,AVI.JO,Packaged Foods,Consumer Defensive
+45,AYO.JO,Information Technology Services,Technology
+46,BWN.JO,Real Estate—Development,Real Estate
+47,BAW.JO,Rental & Leasing Services,Industrials
+48,BAU.JO,Other Industrial Metals & Mining,Basic Materials
+49,SOLBE1.JO,Oil & Gas Integrated,Energy
+50,BEL.JO,Farm & Heavy Construction Machinery,Industrials
+51,BHP.JO,Other Industrial Metals & Mining,Basic Materials
+52,BID.JO,Food Distribution,Consumer Defensive
+53,BVT.JO,Conglomerates,Industrials
+54,BLU.JO,Telecom Services,Communication Services
+55,BCF.JO,Packaging & Containers,Consumer Cyclical
+56,BAT.JO,Asset Management,Financial Services
+57,BIK.JO,Conglomerates,Industrials
+58,BRT.JO,Asset Management,Financial Services
+59,BRN.JO,Asset Management,Financial Services
+60,BTI.JO,Tobacco,Consumer Defensive
+61,BUC.JO,Thermal Coal,Energy
+62,BYI.JO,Software—Application,Technology
+63,CAC.JO,Electrical Equipment & Parts,Industrials
+64,CGR.JO,Residential Construction,Consumer Cyclical
+65,CRP.JO,REIT—Retail,Real Estate
+66,CTA.JO,Information Technology Services,Technology
+67,CCO.JO,REIT—Retail,Real Estate
+68,CPI.JO,Banks—Regional,Financial Services
+69,CSB.JO,Home Improvement Retail,Consumer Cyclical
+70,CAT.JO,Publishing,Communication Services
+71,CHP.JO,Grocery Stores,Consumer Defensive
+72,CMO.JO,Other Industrial Metals & Mining,Basic Materials
+73,CLH.JO,Lodging,Consumer Cyclical
+74,CLS.JO,Pharmaceutical Retailers,Healthcare
+75,CLI.JO,Insurance—Diversified,Financial Services
+76,CGN.JO,Consulting Services,Industrials
+77,CMH.JO,Auto & Truck Dealerships,Consumer Cyclical
+78,CFR.JO,Luxury Goods,Consumer Cyclical
+79,CND.JO,Insurance—Diversified,Financial Services
+80,CML.JO,Asset Management,Financial Services
+81,CKS.JO,Farm Products,Consumer Defensive
+82,CSG.JO,Staffing & Employment Services,Industrials
+83,COH.JO,Education & Training Services,Consumer Defensive
+84,DTC.JO,Information Technology Services,Technology
+85,DLT.JO,REIT—Office,Real Estate
+86,DNB.JO,Conglomerates,Industrials
+87,DKR.JO,REIT—Retail,Real Estate
+88,DIA.JO,REIT—Diversified,Real Estate
+89,DIB.JO,REIT—Diversified,Real Estate
+90,DCP.JO,Pharmaceutical Retailers,Healthcare
+91,DSY.JO,Insurance—Life,Financial Services
+92,DGH.JO,Beverages—Wineries & Distilleries,Consumer Defensive
+93,DRA.JO,Engineering & Construction,Industrials
+94,DRD.JO,Gold,Basic Materials
+95,EMH.JO,Entertainment,Communication Services
+96,EMN.JO,Entertainment,Communication Services
+97,EPS.JO,Other Precious Metals & Mining,Basic Materials
+98,EEL.JO,Oil & Gas E&P,Energy
+99,ELI.JO,Communication Equipment,Technology
+100,EMI.JO,REIT—Diversified,Real Estate
+101,ENX.JO,Specialty Industrial Machinery,Industrials
+102,EOH.JO,Information Technology Services,Technology
+103,EPE.JO,Asset Management,Financial Services
+104,EPP.JO,Real Estate Services,Real Estate
+105,EQU.JO,REIT—Industrial,Real Estate
+106,ETO.JO,Scientific & Technical Instruments,Technology
+107,EUZ.JO,Other Industrial Metals & Mining,Basic Materials
+108,EXP.JO,REIT—Retail,Real Estate
+109,EXX.JO,Thermal Coal,Energy
+110,FVT.JO,REIT—Retail,Real Estate
+111,FBR.JO,Restaurants,Consumer Cyclical
+112,FGL.JO,Mortgage Finance,Financial Services
+113,FSR.JO,Banks—Diversified,Financial Services
+114,FFA.JO,REIT—Diversified,Real Estate
+115,FFB.JO,REIT—Diversified,Real Estate
+116,GML.JO,Other Precious Metals & Mining,Basic Materials
+117,GLN.JO,Other Industrial Metals & Mining,Basic Materials
+118,GTC.JO,Real Estate Services,Real Estate
+119,GLI.JO,Drug Manufacturers—Specialty & Generic,Healthcare
+120,GFI.JO,Gold,Basic Materials
+121,GPL.JO,Restaurants,Consumer Cyclical
+122,GND.JO,Integrated Freight & Logistics,Industrials
+123,GSH.JO,Marine Shipping,Industrials
+124,GRT.JO,REIT—Diversified,Real Estate
+125,HMN.JO,REIT—Retail,Real Estate
+126,HAR.JO,Gold,Basic Materials
+127,HET.JO,REIT—Diversified,Real Estate
+128,HIL.JO,Specialty Retail,Consumer Cyclical
+129,HCI.JO,Conglomerates,Industrials
+130,HPR.JO,Railroads,Industrials
+131,HDC.JO,Industrial Distribution,Industrials
+132,HUG.JO,Telecom Services,Communication Services
+133,HLM.JO,Aluminum,Basic Materials
+134,HUL.JO,Utilities—Renewable,Utilities
+135,HYP.JO,REIT—Retail,Real Estate
+136,ILE.JO,Household & Personal Products,Consumer Defensive
+137,IMP.JO,Other Precious Metals & Mining,Basic Materials
+138,IPL.JO,Integrated Freight & Logistics,Industrials
+139,ILU.JO,REIT—Residential,Real Estate
+140,ISB.JO,Metal Fabrication,Industrials
+141,INL.JO,Banks—Regional,Financial Services
+142,INP.JO,Capital Markets,Financial Services
+143,IPF.JO,REIT—Diversified,Real Estate
+144,IVT.JO,Industrial Distribution,Industrials
+145,IAP.JO,REIT—Diversified,Real Estate
+146,ISA.JO,Software—Infrastructure,Technology
+147,ITE.JO,Home Improvement Retail,Consumer Cyclical
+148,JSC.JO,Conglomerates,Industrials
+149,JSE.JO,Financial Data & Stock Exchanges,Financial Services
+150,JBL.JO,Other Industrial Metals & Mining,Basic Materials
+151,KAL.JO,Farm Products,Consumer Defensive
+152,KAP.JO,Conglomerates,Industrials
+153,KRO.JO,Software—Application,Technology
+154,KBO.JO,Thermal Coal,Energy
+155,KP2.JO,Other Industrial Metals & Mining,Basic Materials
+156,KIO.JO,Steel,Basic Materials
+157,LAB.JO,Semiconductors,Technology
+158,LEW.JO,Specialty Retail,Consumer Cyclical
+159,LBH.JO,Insurance—Diversified,Financial Services
+160,L2D.JO,REIT—Retail,Real Estate
+161,LBR.JO,Packaged Foods,Consumer Defensive
+162,LHC.JO,Medical Care Facilities,Healthcare
+163,LTE.JO,Real Estate Services,Real Estate
+164,LNF.JO,Asset Management,Financial Services
+165,L4L.JO,Specialty Retail,Consumer Cyclical
+166,LUX.JO,Luxury Goods,Consumer Cyclical
+167,MHB.JO,Asset Management,Financial Services
+168,MMP.JO,Industrial Distribution,Industrials
+169,MSP.JO,Real Estate—Diversified,Real Estate
+170,MSM.JO,Department Stores,Consumer Cyclical
+171,MDI.JO,Engineering & Construction,Industrials
+172,MCZ.JO,Thermal Coal,Energy
+173,MEI.JO,Medical Care Facilities,Healthcare
+174,MRF.JO,Other Industrial Metals & Mining,Basic Materials
+175,MTA.JO,Auto Parts,Consumer Cyclical
+176,MFL.JO,Specialty Business Services,Industrials
+177,MIX.JO,Software—Application,Technology
+178,MTM.JO,Insurance—Diversified,Financial Services
+179,MNP.JO,Paper & Paper Products,Basic Materials
+180,MKR.JO,Utilities—Diversified,Utilities
+181,MTH.JO,Auto Parts,Consumer Cyclical
+182,MPT.JO,Packaging & Containers,Consumer Cyclical
+183,MRP.JO,Apparel Retail,Consumer Cyclical
+184,MTN.JO,Telecom Services,Communication Services
+185,MTNZF.JO,Shell Companies,Financial Services
+186,MCG.JO,Entertainment,Communication Services
+187,MUR.JO,Engineering & Construction,Industrials
+188,MST.JO,Computer Hardware,Technology
+189,NPK.JO,Packaging & Containers,Consumer Cyclical
+190,NPN.JO,Internet Content & Information,Communication Services
+191,NED.JO,Banks—Regional,Financial Services
+192,NRP.JO,Real Estate—Diversified,Real Estate
+193,NT1.JO,Software—Infrastructure,Technology
+194,NTC.JO,Medical Care Facilities,Healthcare
+195,NFP.JO,REIT—Retail,Real Estate
+196,NRL.JO,REIT—Diversified,Real Estate
+197,NCS.JO,Specialty Retail,Consumer Cyclical
+198,NY1.JO,Asset Management,Financial Services
+199,N91.JO,Asset Management,Financial Services
+200,NHM.JO,Other Precious Metals & Mining,Basic Materials
+201,NVS.JO,Specialty Business Services,Industrials
+202,NWL.JO,Consumer Electronics,Technology
+203,NUT.JO,Packaged Foods,Consumer Defensive
+204,NVE.JO,Asset Management,Financial Services
+205,OAO.JO,Oil & Gas Refining & Marketing,Energy
+206,OAS.JO,REIT—Diversified,Real Estate
+207,OCE.JO,Packaged Foods,Consumer Defensive
+208,OCT.JO,REIT—Diversified,Real Estate
+209,OMU.JO,Insurance—Life,Financial Services
+210,OMN.JO,Conglomerates,Industrials
+211,OLG.JO,Trucking,Industrials
+212,ORN.JO,Other Industrial Metals & Mining,Basic Materials
+213,PAN.JO,Gold,Basic Materials
+214,PBG.JO,Information Technology Services,Technology
+215,PEM.JO,Education & Training Services,Consumer Defensive
+216,PPH.JO,Department Stores,Consumer Cyclical
+217,PIK.JO,Department Stores,Consumer Cyclical
+218,PPC.JO,Building Materials,Basic Materials
+219,PFB.JO,Packaged Foods,Consumer Defensive
+220,PMV.JO,Staffing & Employment Services,Industrials
+221,PRX.JO,Internet Content & Information,Communication Services
+222,PSG.JO,Conglomerates,Industrials
+223,KST.JO,Asset Management,Financial Services
+224,PSV.JO,Specialty Industrial Machinery,Industrials
+225,PPE.JO,Financial Conglomerates,Financial Services
+226,PPR.JO,Real Estate Services,Real Estate
+227,QFH.JO,Farm Products,Consumer Defensive
+228,QLT.JO,Asset Management,Financial Services
+229,RMI.JO,Insurance—Diversified,Financial Services
+230,RNG.JO,Gold,Basic Materials
+231,RBX.JO,Engineering & Construction,Industrials
+232,RAV.JO,Real Estate Services,Real Estate
+233,RCL.JO,Packaged Foods,Consumer Defensive
+234,REB.JO,REIT—Diversified,Real Estate
+235,REA.JO,REIT—Diversified,Real Estate
+236,RDF.JO,REIT—Diversified,Real Estate
+237,RNI.JO,Asset Management,Financial Services
+238,REM.JO,Asset Management,Financial Services
+239,REN.JO,Asset Management,Financial Services
+240,RES.JO,REIT—Retail,Real Estate
+241,RSG.JO,Thermal Coal,Energy
+242,RLO.JO,Electrical Equipment & Parts,Industrials
+243,RTN.JO,Apparel Retail,Consumer Cyclical
+244,RTO.JO,Apparel Retail,Consumer Cyclical
+245,RFG.JO,Packaged Foods,Consumer Defensive
+246,RHB.JO,Medical Care Facilities,Healthcare
+247,RMH.JO,Banks—Regional,Financial Services
+248,RBP.JO,Other Precious Metals & Mining,Basic Materials
+249,SAC.JO,REIT—Diversified,Real Estate
+250,SZK.JO,Shell Companies,Financial Services
+251,SBP.JO,Asset Management,Financial Services
+252,SAR.JO,REIT—Diversified,Real Estate
+253,SLM.JO,Insurance—Life,Financial Services
+254,SNT.JO,Insurance—Specialty,Financial Services
+255,SNV.JO,Integrated Freight & Logistics,Industrials
+256,SAP.JO,Paper & Paper Products,Basic Materials
+257,SFN.JO,Banks—Regional,Financial Services
+258,SOL.JO,Oil & Gas Integrated,Energy
+259,SCD.JO,REIT—Specialty,Real Estate
+260,SHG.JO,Farm Products,Consumer Defensive
+261,SEB.JO,Software—Application,Technology
+262,SEP.JO,Building Materials,Basic Materials
+263,SHP.JO,Department Stores,Consumer Cyclical
+264,SSW.JO,Gold,Basic Materials
+265,SVB.JO,Software—Application,Technology
+266,SRE.JO,Real Estate Services,Real Estate
+267,SOH.JO,Electrical Equipment & Parts,Industrials
+268,S32.JO,Other Industrial Metals & Mining,Basic Materials
+269,SPA.JO,Specialty Chemicals,Basic Materials
+270,SEA.JO,,
+271,SUR.JO,Restaurants,Consumer Cyclical
+272,SDO.JO,Education & Training Services,Consumer Defensive
+273,SBK.JO,Banks—Regional,Financial Services
+274,SSK.JO,Engineering & Construction,Industrials
+275,SNH.JO,Specialty Retail,Consumer Cyclical
+276,SCP.JO,Asset Management,Financial Services
+277,STP.JO,REIT—Industrial,Real Estate
+278,SSS.JO,REIT—Industrial,Real Estate
+279,SUI.JO,Resorts & Casinos,Consumer Cyclical
+280,SPG.JO,Integrated Freight & Logistics,Industrials
+281,SYG.JO,Financial Conglomerates,Financial Services
+282,TLM.JO,Telecom Services,Communication Services
+283,TKG.JO,Telecom Services,Communication Services
+284,TXT.JO,Rental & Leasing Services,Industrials
+285,TEX.JO,REIT—Office,Real Estate
+286,THA.JO,Other Precious Metals & Mining,Basic Materials
+287,TFG.JO,Specialty Retail,Consumer Cyclical
+288,SPP.JO,Food Distribution,Consumer Defensive
+289,TGA.JO,Thermal Coal,Energy
+290,TBS.JO,Packaged Foods,Consumer Defensive
+291,TON.JO,Confectioners,Consumer Defensive
+292,TWR.JO,REIT—Diversified,Real Estate
+293,TDH.JO,Real Estate Services,Real Estate
+294,TCP.JO,Credit Services,Financial Services
+295,TPF.JO,REIT—Residential,Real Estate
+296,TPC.JO,Packaging & Containers,Consumer Cyclical
+297,TRL.JO,Security & Protection Services,Industrials
+298,TMT.JO,Real Estate Services,Real Estate
+299,TRE.JO,Marine Shipping,Industrials
+300,TTO.JO,Insurance—Diversified,Financial Services
+301,TRU.JO,Apparel Retail,Consumer Cyclical
+302,TSG.JO,Resorts & Casinos,Consumer Cyclical
+303,TGO.JO,Lodging,Consumer Cyclical
+304,UPL.JO,Asset Management,Financial Services
+305,VIS.JO,Real Estate Services,Real Estate
+306,VVO.JO,Oil & Gas Refining & Marketing,Energy
+307,VOD.JO,Telecom Services,Communication Services
+308,VKE.JO,REIT—Diversified,Real Estate
+309,VUN.JO,Capital Markets,Financial Services
+310,WSL.JO,Thermal Coal,Energy
+311,WEZ.JO,Other Industrial Metals & Mining,Basic Materials
+312,WBO.JO,Engineering & Construction,Industrials
+313,WHL.JO,Department Stores,Consumer Cyclical
+314,WKF.JO,Staffing & Employment Services,Industrials
+315,YYLBEE.JO,Telecom Services,Communication Services
+316,YRK.JO,Lumber & Wood Production,Basic Materials
+317,ZCL.JO,Asset Management,Financial Services
+318,ZED.JO,Asset Management,Financial Services
