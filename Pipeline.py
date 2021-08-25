@@ -35,10 +35,18 @@ class Pipeline:
 
         # this will give use True if Sector is empty and False if the Sector has data
         skip_condition = self._data['Sector'].empty == False
+        skip_condition = bool
+        first_sector = str((self._data['Sector']).iloc[0])
+        if first_sector != 'nan':
+            skip_condition = False
+
+        debug_value = self._data['Sector']
         if not skip_condition:  # Sector if not empty
             _tickers = list((pd.DataFrame(self._data[self._data['Sector'] == self._sector]
                                           .drop(columns=['Sector'])))['Ticker'].drop_duplicates())
             return _tickers
+
+        tickers_debug = _tickers
 
         return _tickers
 
@@ -90,6 +98,10 @@ class Pipeline:
                         continue
             # pbar.update(n=1)
         end = time.process_time()
+
+        print('\nFunction -> optimal_model')
+        print(f'Order: {order}')
+
         print(f"Done: {end - start}")
 
         return order, rmse

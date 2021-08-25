@@ -41,5 +41,5 @@ class Data:
         :return: this resamples the DataFrame dates into BusinessQuaters, and returns Adjclose
         """
         prices = self.get_price()
-        # prices = prices.resample('M', convention='end').mean()
+        prices = prices.resample('BQ', convention='end').mean()
         return prices

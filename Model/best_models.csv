@@ -1,2 +1,13 @@
 ,Model_Name,Sector,Ticker,Model_Order,Score
-0,"ARIMA(1, 1, 2)",,ETFSAP.JO,"(1, 7, 2)",882.7724220129835
+0,"ARIMA(0, 2, 2)",Communication Services,AME.JO,"(0, 2, 2)",0.5287945531226963
+0,"ARIMA(0, 2, 1)",Communication Services,BLU.JO,"(0, 2, 1)",0.06462590924734743
+0,"ARIMA(0, 1, 1)",Communication Services,CAT.JO,"(0, 1, 1)",1.981996526796507
+0,"ARIMA(0, 1, 1)",Communication Services,EMH.JO,"(0, 1, 1)",0.2120670040108627
+0,"ARIMA(3, 1, 2)",Communication Services,EMN.JO,"(3, 1, 2)",0.17385085852240667
+0,"ARIMA(1, 1, 0)",Communication Services,HUG.JO,"(1, 1, 0)",0.2862098794158972
+0,"ARIMA(1, 1, 0)",Communication Services,MTN.JO,"(1, 1, 0)",1.883415848597729
+0,"ARIMA(1, 2, 1)",Communication Services,NPN.JO,"(1, 2, 1)",0.17257961743667213
+0,"ARIMA(0, 1, 1)",Communication Services,TLM.JO,"(0, 1, 1)",0.16527266327199183
+0,"ARIMA(1, 1, 0)",Communication Services,TKG.JO,"(1, 1, 0)",0.5837715492703718
+0,"ARIMA(0, 1, 1)",Communication Services,VOD.JO,"(0, 1, 1)",2.9846666801298816
+0,"ARIMA(1, 1, 0)",Communication Services,YYLBEE.JO,"(1, 1, 0)",0.1021067051436947

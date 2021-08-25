@@ -46,6 +46,8 @@ def save_best_model(ticker_path, ds_path) -> None:
 
                 model_name = f"ARIMA({p}, {d}, {q})"
                 model_order = (p, d, q)
+                print('\n Function: save_best_model')
+                print(f'Order: {model_order}')
 
                 best_model = pd.DataFrame([[model_name, sector, ticker, model_order, score]],
                                           columns=['Model_Name', 'Sector', 'Ticker', 'Model_Order', "Score"])
@@ -62,7 +64,8 @@ def save_best_model(ticker_path, ds_path) -> None:
 
 
 def predictions_(ticker_path, ds_path) -> None:
-    saved_best_models = 'Model/SA_ETF_best_model.csv'
+    saved_best_models = './Model/best_models.csv'
+    # saved_best_models = 'Model/SA_ETF_best_model.csv'
     df = pd.read_csv(saved_best_models).drop(columns=['Unnamed: 0'])
     df['Model_Order'] = [make_tuple(tup) for tup in df.Model_Order]
 
@@ -76,7 +79,7 @@ def predictions_(ticker_path, ds_path) -> None:
     if skip_condition:  # if sector is empty then skip code
         print(f"{sectors}")
         avail_sectors = input('Select an Available Sector: ')
-        # model_save_path = './Model/best_models.csv'
+        model_save_path = './Model/best_models.csv'
 
     answer = input('{y} To Continue and {n} to stop: ')
 
@@ -88,10 +91,10 @@ def predictions_(ticker_path, ds_path) -> None:
             prices = Pipeline.price_returns(data.Ticker)
             cross_val = Pipeline.cross_val(prices)
 
-            plot_answer = input('Do you want to ACF and PACF? {y}: ')
-            if plot_answer == 'y':
-                Pipeline.model_corr_plots(prices)
-                time.sleep(1)
+            # plot_answer = input('Do you want to ACF and PACF? {y}: ')
+            # if plot_answer == 'y':
+            #     Pipeline.model_corr_plots(prices)
+            #     time.sleep(1)
 
             warnings.filterwarnings("ignore")
             predictions, rmse = Pipeline.trained_model(data.Model_Order, cross_val)
@@ -120,11 +123,13 @@ def predictions_(ticker_path, ds_path) -> None:
 
 
 if __name__ == '__main__':
-    path = 'Data/Dataset/EFT/SA_ETF_tickers.csv'
-    dataset_path = 'Data/Dataset/EFT/ETF_Historical_Data.csv'
-    save_best_model(path, dataset_path)
+    # path = 'Data/Dataset/EFT/SA_ETF_tickers.csv'
+    # dataset_path = 'Data/Dataset/EFT/ETF_Historical_Data.csv'
+    path = 'Data/Dataset/JSE/jse_tickers_sector.csv'
+    dataset_path = 'Data/Dataset/JSE/Dataset.csv'
+    # save_best_model(path, dataset_path)
 
-    # predictions_(path, dataset_path)
+    predictions_(path, dataset_path)
 
     # pl = pL.Pipeline('', path, dataset_path)
 
