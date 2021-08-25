@@ -130,13 +130,3 @@ if __name__ == '__main__':
     # save_best_model(path, dataset_path)
 
     predictions_(path, dataset_path)
-
-    # pl = pL.Pipeline('', path, dataset_path)
-
-    # prices = pl.price_returns('SYG.JO')
-    # cv = pl.cross_val(prices)
-
-    # cv = cv.sliding_window(window=12, horizon=1)
-
-    # for train, test in cv:
-    #     print(train)
